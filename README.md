@@ -19,9 +19,7 @@ A simple web-based **image resizer and downloader** that lets users upload an im
 - HTML, CSS, JavaScript 🎨
 - Canvas API 🖌️
 
-## 📸 Preview
-![Preview](https://via.placeholder.com/600x300?text=Image+Resizer+Preview)
-
+  
 ## 📜 License
 This project is open-source and free to use. 🚀
 
